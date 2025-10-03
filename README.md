@@ -18,7 +18,7 @@ Um astrolábio cerimonial de **latão envelhecido**, com superfície rica em pá
 * **Pigmento carmim (urucum)**: preenchendo as inscrições e gravuras.
 * **Rubis vermelhos**: cinco gemas pequenas que marcam as estrelas do Cruzeiro do Sul.
 * **Madeira nobre**: base de exposição, polida e sóbria.
-* **Plaqueta dourada**: inscrição “Museu Marítimo de Kamona – Item 11.27”.
+* **Plaqueta dourada**: inscrição “Algum contexto vinculado ao jogo”.
 
 ### Efeitos Especiais (in-game)
 
