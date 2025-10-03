@@ -1,4 +1,4 @@
-# 🌟 Astrolábio do Cruzeiro do Sul – Proposta de Item "Red" para Arena Breakout
+# ⚓ Astrolábio do Cruzeiro do Sul – Proposta de Item "Red" para Arena Breakout
 
 ## 📖 Contexto Cultural
 
