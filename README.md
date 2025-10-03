@@ -39,6 +39,10 @@ Um astrolábio cerimonial de **latão envelhecido**, com superfície rica em pá
 
 ![Side Angle](assault_shot.png)
 
+### Exemplo / GIF
+
+![GIF](A_cinematic_realistic_202510031119)
+
 ---
 
 ## 🚀 Justificativa
