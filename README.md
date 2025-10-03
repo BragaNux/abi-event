@@ -37,19 +37,7 @@ Um astrolábio cerimonial de **latão envelhecido**, com superfície rica em pá
 
 ### Ângulo Detalhado / Vista Lateral
 
-![Side Angle](file_00000000e8cc61fda152b2b42c65894d)
-
-### Exibição em Caixa de Museu
-
-![Museum Box](file_000000002d2061f5ac0bcb96eecf72b1)
-
-### Exibição Mística / Glow
-
-![Mystical Glow](file_0000000012dc61f5997e74b7dd0ade5d)
-
-### Versão Clássica no Suporte de Madeira
-
-![Wood Stand](file_0000000079e461fdb94920d6991884e6)
+![Side Angle](assault_shot.png)
 
 ---
 
