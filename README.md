@@ -34,8 +34,8 @@ Um astrolábio cerimonial de **latão envelhecido**, com superfície rica em pá
 ### 📌 Imagens Estáticas
 
 <p align="center">
-  <img src="hero_shot.png" alt="Hero Shot" width="45%"/>
   <img src="assault_shot.png" alt="Side Angle" width="45%"/>
+  <img src="hero_shot.png" alt="Hero Shot" width="45%"/>
 </p>
 
 ---
