@@ -33,7 +33,7 @@ Um astrolábio cerimonial de **latão envelhecido**, com superfície rica em pá
 
 ### Hero Shot – Item Isolado
 
-![Hero Shot](file_0000000093f461f5a184c8014a007b31)
+![Hero Shot](hero_shot.png)
 
 ### Ângulo Detalhado / Vista Lateral
 
